@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Josue Niyonkuda!
 
 ## 🚀 About Me
-I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects.
+I'm about to be a junior developer with a passion for building web applications using React and I'm a graduate in Electrical Technology. 
+I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects.
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** React, JavaScript, HTML, CSS
